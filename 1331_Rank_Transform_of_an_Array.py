@@ -1,3 +1,4 @@
+"""
 Given an array of integers arr, replace each element with its rank.
 
 The rank represents how large the element is. The rank has the following rules:
@@ -27,3 +28,4 @@ Constraints:
 
 0 <= arr.length <= 105
 -109 <= arr[i] <= 109
+"""
