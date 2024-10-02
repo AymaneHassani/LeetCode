@@ -1,7 +1,7 @@
 # LeetCode
 Leetcode Solutions Repository
 
-Welcome to the Leetcode Solutions repository! This repo contains my solutions to various algorithm and data structure problems from Leetcode. Each solution is implemented in languages like Python, C, C++, and SQL, with a focus on clean, readable code and efficient algorithms.
+Welcome to the Leetcode Solutions repository! This repo contains my solutions to various algorithm and data structure problems from Leetcode. Each solution is implemented in languages like Python, C and C++, with a focus on clean, readable code and efficient algorithms.
 
 Contents:
 
@@ -14,7 +14,6 @@ Languages:
 	•	Python
 	•	C
 	•	C++
-	•	SQL
 
 Goals:
 
